@@ -2,9 +2,9 @@ const directory = require('./directory')
 const fs = require('fs')
 
 let markdown = `
-# Creatives directory
+# Creatives directory 📖
 
-A list of creatives to follow on Twitter
+A list of creatives to follow on Twitter ✨
 
 | Name  | Twitter Handle |
 | ------| -------------- |
@@ -22,7 +22,7 @@ markdown += `
 
 ------------------------
 
-Put together by [@jh3y](https://jhey.dev)
+Put together by [@jh3y](https://jhey.dev) ⌨️
 `
 
 console.info('Markdown generated')

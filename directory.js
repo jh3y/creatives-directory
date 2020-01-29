@@ -8,6 +8,18 @@ const directory = [
   { name: "Jhey Tompkins", twitter: "jh3yy" },
   { name: "Olivia Ng", twitter: "meowlivia_" },
   { name: "Pete Barr", twitter: "petebarr" },
-  { name: "Kyle Shook", twitter: "elyktrix"}
+  { name: "Kyle Shook", twitter: "elyktrix" },
+  { name: "Michelle Barker", twitter: "MicheBarks" },
+  { name: "Ilithya", twitter: "ilithya_net" },
+  { name: "Yuan Chuan", twitter: "yuanchuan23" },
+  { name: "Christina Gorton", twitter: "coffeecraftcode" },
+  { name: "Liam Egan", twitter: "liamegan" },
+  { name: "Kristopher Van Sant", twitter: "rosieebob" },
+  { name: "Steve Gardner", twitter: "steeevg" },
+  { name: "Ben Evans", twitter: "ivorjetski" },
+  { name: "Milan Raring", twitter: "MilanRaring" },
+  { name: "Florin Pop", twitter: "florinpop1705" },
+  { name: "Erica Anderson", twitter: "ericaofanderson" },
+  { name: "Étienne Jacob", twitter: "etiennejcb" }
 ]
 module.exports = directory
