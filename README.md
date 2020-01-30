@@ -15,6 +15,7 @@ A list of creatives to follow on Twitter ✨
 |Erica Anderson|[@ericaofanderson](https://twitter.com/@ericaofanderson)|
 |Florin Pop|[@florinpop1705](https://twitter.com/@florinpop1705)|
 |Ilithya|[@ilithya_net](https://twitter.com/@ilithya_net)|
+|Jamie Coulter|[@jamiecoulter89](https://twitter.com/@jamiecoulter89)|
 |Jhey Tompkins|[@jh3yy](https://twitter.com/@jh3yy)|
 |Kristopher Van Sant|[@rosieebob](https://twitter.com/@rosieebob)|
 |Kyle Shook|[@elyktrix](https://twitter.com/@elyktrix)|
