@@ -43,6 +43,7 @@ A list of creatives to follow on Twitter ✨
 |Steve Gardner|[@steeevg](https://twitter.com/@steeevg)|
 |Tee Diang|[@cybercountess](https://twitter.com/@cybercountess)|
 |Thomas Hooper|[@tdhooper](https://twitter.com/@tdhooper)|
+|Thomas Wang|[@thomaswangio](https://twitter.com/@thomaswangio)|
 |Tiffany Choong|[@tiffachooo](https://twitter.com/@tiffachooo)|
 |Yuan Chuan|[@yuanchuan23](https://twitter.com/@yuanchuan23)|
 |Yusuke Nakaya|[@s14garnet](https://twitter.com/@s14garnet)|
