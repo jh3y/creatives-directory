@@ -42,6 +42,7 @@ const directory = [
   { name: "Charlie Gerard", twitter: "devdevcharlie" },
   { name: "Diana Smith", twitter: "cyanharlow" },
   { name: "Chris Dolphin", twitter: "LikeTheMammal" },
-  { name: "Mandy Kerr", twitter: "Mandy_Kerr" }
+  { name: "Mandy Kerr", twitter: "Mandy_Kerr" },
+  { name: "Thomas Wang", twitter: "thomaswangio" }
 ]
 module.exports = directory
