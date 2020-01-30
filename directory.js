@@ -21,6 +21,27 @@ const directory = [
   { name: "Florin Pop", twitter: "florinpop1705" },
   { name: "Erica Anderson", twitter: "ericaofanderson" },
   { name: "Étienne Jacob", twitter: "etiennejcb" },
-  { name: "Jamie Coulter", twitter: "jamiecoulter89" }
+  { name: "Jamie Coulter", twitter: "jamiecoulter89" },
+  { name: "Yusuke Nakaya", twitter: "s14garnet" },
+  { name: "John Beech", twitter: "Johnee_B" },
+  { name: "Flopine", twitter: "FlopineYeah" },
+  { name: "Keita Abe", twitter: "su8erlemon" },
+  { name: "Matt Zucker", twitter: "matt_zucker" },
+  { name: "Thomas Hooper", twitter: "tdhooper" },
+  { name: "Kuva (Studio)", twitter: "wearekuva" },
+  { name: "かねた", twitter: "kanetaaaaa" },
+  { name: "おかず", twitter: "okazz_" },
+  { name: "Natalia Zmysłowska", twitter: "CodeMeNatalie" },
+  { name: "Tiffany Choong", twitter: "tiffachooo" },
+  { name: "Daniel Shiffman", twitter: "shiffman" },
+  { name: "David Khourshid", twitter: "DavidKPiano" },
+  { name: "Agathe", twitter: "agathacco" },
+  { name: "Ana Tudor", twitter: "anatudor" },
+  { name: "Katherine Kato", twitter: "kato_katherine" },
+  { name: "Sarah Drasner", twitter: "sarah_edo" },
+  { name: "Charlie Gerard", twitter: "devdevcharlie" },
+  { name: "Diana Smith", twitter: "cyanharlow" },
+  { name: "Chris Dolphin", twitter: "LikeTheMammal" },
+  { name: "Mandy Kerr", twitter: "Mandy_Kerr" }
 ]
 module.exports = directory
