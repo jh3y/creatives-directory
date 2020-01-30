@@ -20,6 +20,7 @@ const directory = [
   { name: "Milan Raring", twitter: "MilanRaring" },
   { name: "Florin Pop", twitter: "florinpop1705" },
   { name: "Erica Anderson", twitter: "ericaofanderson" },
-  { name: "Étienne Jacob", twitter: "etiennejcb" }
+  { name: "Étienne Jacob", twitter: "etiennejcb" },
+  { name: "Jamie Coulter", twitter: "jamiecoulter89" }
 ]
 module.exports = directory
