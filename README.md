@@ -48,6 +48,7 @@ A list of creatives to follow on Twitter ✨
 |Matt Zucker|[@matt_zucker](https://twitter.com/@matt_zucker)|
 |Michelle Barker|[@MicheBarks](https://twitter.com/@MicheBarks)|
 |Milan Raring|[@MilanRaring](https://twitter.com/@MilanRaring)|
+|Naoki Tsutae|[@ntsutae](https://twitter.com/@ntsutae)|
 |Natalia Zmysłowska|[@CodeMeNatalie](https://twitter.com/@CodeMeNatalie)|
 |Olivia Ng|[@meowlivia_](https://twitter.com/@meowlivia_)|
 |Patricio Gonzalez Vivo|[@patriciogv](https://twitter.com/@patriciogv)|
@@ -56,6 +57,7 @@ A list of creatives to follow on Twitter ✨
 |Ricardo Cabello|[@mrdoob](https://twitter.com/@mrdoob)|
 |Sarah Drasner|[@sarah_edo](https://twitter.com/@sarah_edo)|
 |Saskia Freeke|[@sasj_nl](https://twitter.com/@sasj_nl)|
+|Shunsuke Takao|[@takawo](https://twitter.com/@takawo)|
 |Steve Gardner|[@steeevg](https://twitter.com/@steeevg)|
 |Tee Diang|[@cybercountess](https://twitter.com/@cybercountess)|
 |Thomas Hooper|[@tdhooper](https://twitter.com/@tdhooper)|
