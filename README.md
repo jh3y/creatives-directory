@@ -58,10 +58,11 @@ A list of creatives to follow on Twitter ✨
 |Sarah Drasner|[@sarah_edo](https://twitter.com/@sarah_edo)|
 |Saskia Freeke|[@sasj_nl](https://twitter.com/@sasj_nl)|
 |Shunsuke Takao|[@takawo](https://twitter.com/@takawo)|
+|Stephen Shaw|[@shshaw](https://twitter.com/@shshaw)|
 |Steve Gardner|[@steeevg](https://twitter.com/@steeevg)|
 |Tee Diang|[@cybercountess](https://twitter.com/@cybercountess)|
 |Thomas Hooper|[@tdhooper](https://twitter.com/@tdhooper)|
-|Thomas Wang|[@thomaswangio](https://twitter.com/@thomaswangio)|
+|Thomas Wang|[@thomaswang](https://twitter.com/@thomaswang)|
 |Tiffany Choong|[@tiffachooo](https://twitter.com/@tiffachooo)|
 |Tim Rodenbröker|[@timrodenbroeker](https://twitter.com/@timrodenbroeker)|
 |Tyler Hobbs|[@tylerxhobbs](https://twitter.com/@tylerxhobbs)|
