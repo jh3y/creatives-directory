@@ -10,12 +10,13 @@ A list of creatives to follow on Twitter ✨
 | ------| -------------- |
 `
 
-for (const creative of directory.sort((a, b) => a.name > b.name ? 1 : -1)) {
+for (const creative of directory.sort(Intl.Collator().compare)) {
   markdown += `|${creative.name}|[@${creative.twitter}](https://twitter.com/@${creative.twitter})|\n`
 }
 
 markdown += `
 ### Contributing
+
 1. Add someone to \`directory.js\`
 2. Run \`node generate.js\`
 3. Open a Pull Request 👍
@@ -25,6 +26,6 @@ markdown += `
 Put together by [@jh3y](https://jhey.dev) ⌨️
 `
 
-console.info('Markdown generated')
+console.info('Markdown generated 🐻')
 
 fs.writeFileSync(`${process.cwd()}/README.md`, markdown, 'utf-8')

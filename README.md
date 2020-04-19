@@ -12,6 +12,7 @@ A list of creatives to follow on Twitter ✨
 |Ana Tudor|[@anatudor](https://twitter.com/@anatudor)|
 |Andreas Refsgaard|[@AndreasRef](https://twitter.com/@AndreasRef)|
 |Ben Evans|[@ivorjetski](https://twitter.com/@ivorjetski)|
+|Casey REAS|[@REAS](https://twitter.com/@REAS)|
 |Cassandra Paigee|[@CassandraPaigee](https://twitter.com/@CassandraPaigee)|
 |Cassie Evans|[@cassiecodes](https://twitter.com/@cassiecodes)|
 |Cassie Tarakajian|[@hellothisiscass](https://twitter.com/@hellothisiscass)|
@@ -25,6 +26,7 @@ A list of creatives to follow on Twitter ✨
 |Derya Tanrıverdi|[@Derya_T88](https://twitter.com/@Derya_T88)|
 |Diana Smith|[@cyanharlow](https://twitter.com/@cyanharlow)|
 |Erica Anderson|[@ericaofanderson](https://twitter.com/@ericaofanderson)|
+|Étienne Jacob|[@etiennejcb](https://twitter.com/@etiennejcb)|
 |Flopine|[@FlopineYeah](https://twitter.com/@FlopineYeah)|
 |Florin Pop|[@florinpop1705](https://twitter.com/@florinpop1705)|
 |Gene Kogan|[@genekogan](https://twitter.com/@genekogan)|
@@ -57,8 +59,8 @@ A list of creatives to follow on Twitter ✨
 |Ricardo Cabello|[@mrdoob](https://twitter.com/@mrdoob)|
 |Sarah Drasner|[@sarah_edo](https://twitter.com/@sarah_edo)|
 |Saskia Freeke|[@sasj_nl](https://twitter.com/@sasj_nl)|
-|Shunsuke Takao|[@takawo](https://twitter.com/@takawo)|
 |Stephen Shaw|[@shshaw](https://twitter.com/@shshaw)|
+|Shunsuke Takao|[@takawo](https://twitter.com/@takawo)|
 |Steve Gardner|[@steeevg](https://twitter.com/@steeevg)|
 |Tee Diang|[@cybercountess](https://twitter.com/@cybercountess)|
 |Thomas Hooper|[@tdhooper](https://twitter.com/@tdhooper)|
@@ -69,7 +71,6 @@ A list of creatives to follow on Twitter ✨
 |Yuan Chuan|[@yuanchuan23](https://twitter.com/@yuanchuan23)|
 |Yusuke Nakaya|[@s14garnet](https://twitter.com/@s14garnet)|
 |Zach Lieberman|[@zachlieberman](https://twitter.com/@zachlieberman)|
-|Étienne Jacob|[@etiennejcb](https://twitter.com/@etiennejcb)|
 |おかず|[@okazz_](https://twitter.com/@okazz_)|
 |かねた|[@kanetaaaaa](https://twitter.com/@kanetaaaaa)|
 
